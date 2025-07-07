@@ -71,5 +71,20 @@ https://www.data.go.kr/data/15125089/fileData.do<br>
 # 💻 실제 화면
 <br>
 
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/c6c6df91-c662-415d-a59d-e6facdab97ba" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/bd1891cb-c573-4b1c-9e5a-b2eb2ca5cc02" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/3dd7b3d4-7441-4b9b-9e43-68f0677aa4e0" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/2862dfcf-75c3-4ad4-963c-4557bc3b00d9" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/696f1f11-6295-41ef-94d8-afec630c9399" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/8f4325ae-cdce-47f1-9a15-87bd9f403c0e" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/9b26f10c-3c15-4b8d-9181-fc1be30a94f0" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/95bf2be9-b26a-492e-b9c6-15c382a444a9" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/91231992-26a2-40fb-9a18-2fa2042b34c3" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/40599791-f833-4757-af00-bf5dd390ee6e" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/34deb4cb-2c60-4597-aa75-b3999918a035" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/4d115a2f-6a3c-4c98-b942-0d338d3987b9" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/965a2116-1608-4ffd-a682-c19fad061083" />
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/6a0746be-f432-4313-b127-5fc6b8455f5e" />
+
 # 🖊 회고
 <br>
