@@ -86,7 +86,8 @@ https://www.data.go.kr/data/15125089/fileData.do<br>
 # **DBMS**
 <img width="300" height="530" alt="Image" src="https://github.com/user-attachments/assets/17b9f950-86eb-4a36-b31c-c75ceab1ca72" /><br>
 ---
-# **ERD**
+
+# 🗄️ 데이터베이스 설계 문서
 <img width="1188" height="975" alt="Image" src="https://github.com/user-attachments/assets/57b7e9eb-1c7e-4798-8d4b-924ffedc20c3" />
 
 # 📝 화면 설계서
@@ -104,7 +105,7 @@ https://www.data.go.kr/data/15125089/fileData.do<br>
 
 <br>
 
-# 💻 실제 화면
+# 💻 데이터조회 프로그램
 <br>
 
 ## **커뮤니티 내 전기차 관련 주요 키워드 분석**<br>
